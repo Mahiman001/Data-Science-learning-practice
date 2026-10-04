@@ -1,7 +1,6 @@
-# Data Science Learning & Practice
+# Data Science & Machine Learning
 
-This repository contains my practice work, notes, experiments, and projects
-while learning Data Science and Machine Learning.
+This repository contains my learning journey in **Data Science, Machine Learning, SQL, Statistics, and AI**, including notes, practice, experiments, and projects.
 
 ## 📚 Topics
 
@@ -9,11 +8,24 @@ while learning Data Science and Machine Learning.
 - Python
 - NumPy
 - Pandas
-- Data Analysis
+- Data Cleaning
+- EDA
 - Data Visualization
+- Matplotlib
+- Seaborn
 
 ### Statistics & Mathematics
-- Statistics
+- Probability
+- Probability Distributions
+- Z-Score
+- IQR & Outlier Detection
+- Hypothesis Testing
+- P-Values & Critical Values
+- Confidence Intervals
+- Correlation & Covariance
+- ANOVA
+- Chi-Square Test
+- Pearson & Spearman Correlation
 - Linear Algebra
 
 ### Machine Learning
@@ -22,26 +34,37 @@ while learning Data Science and Machine Learning.
 - Ridge Regression
 - Lasso Regression
 - Elastic Net
+- Decision Trees
+- Random Forest
+- AdaBoost
+- KNN
+- K-Means
+- DBSCAN
+- Gaussian Mixture Models
+- PCA
 - Machine Learning Pipelines
+- ColumnTransformer
+- Feature Scaling
+- Model Evaluation
+- Hyperparameter Tuning
 
 ### SQL
 - SQL
+- JOINs
+- Aggregations
+- Subqueries
+- CTEs
 - SQL with Python
 
-## 🚀 Projects
-
-This repository also contains practical projects where I apply the concepts
-learned throughout my Data Science journey.
-
-## 📈 Current Progress
-
-Currently focused on Classical Machine Learning, with upcoming focus on
-Deep Learning and more advanced AI/ML concepts.
 
 ## 🛠️ Tools & Libraries
 
-Python • NumPy • Pandas • Matplotlib • Seaborn • SciPy • Scikit-learn • SQL
-• Jupyter Notebook • Git & GitHub
+Python • NumPy • Pandas • Matplotlib • Seaborn • SciPy • Scikit-learn  
+SQL • Jupyter Notebook • Google Colab • VS Code • Git • GitHub
+
+## 📈 Current Focus
+
+Currently focused on **Classical Machine Learning and practical ML projects**, followed by **Production ML, Deep Learning, and advanced AI concepts**.
 
 ---
 
